@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img width="325"
-    src="https://github-readme-stats-eta-gray-84.vercel.app/api/top-langs?username=clem-fry&bg_color=00000000&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true"
+    src="https://github-readme-stats-eta-gray-84.vercel.app/api/top-langs?username=clem-fry&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true"
     alt="Most Used Languages" />
 </div>
 
