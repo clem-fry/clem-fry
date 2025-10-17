@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  
-[![Top Langs - Dark](https://github-readme-stats-eta-gray-84.vercel.app/api/top-langs?username=clem-fry&theme=cobalt2&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true#gh-dark-mode-only)](https://github.com/clem-fry#gh-dark-mode-only)
 
-[![Top Langs - Light](https://github-readme-stats-eta-gray-84.vercel.app/api/top-langs?username=clem-fry&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true#gh-light-mode-only)](https://github.com/clem-fry#gh-light-mode-only)
-
+<img width="325" src="https://github-readme-stats-eta-gray-84.vercel.app/api/top-langs?username=clem-fry&theme=highcontrast&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true"
+  alt="Most Used Languages" />
 </div>
 
 
