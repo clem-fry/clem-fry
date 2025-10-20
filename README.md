@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Clementine%20Fry's%20Github&fontSize=70&fontColor=d6ace6" />
 <table>
 <tr>
@@ -52,6 +53,15 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clem-fry/clem-fry/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clem-fry/clem-fry/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/clem-fry/clem-fry/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <hr>
 
