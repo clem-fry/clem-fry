@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Clementine%20Fry's%20Github&fontSize=70&fontColor=d6ace6" />
 <table>
 <tr>
+
   <!-- Left: Top Languages Chart -->
   <td>
     <img
@@ -37,13 +38,15 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="45" height="45"/></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45"/></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="45" height="45"/></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/></td>
     </tr>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/></td>
-      <td></td>
-      <td></td>
+      <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" alt="Pytorch" width="45" height="45"/>
+</td>
+      <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="45" height="45"/>
+</td>
     </tr>
   </table>
 </td>
